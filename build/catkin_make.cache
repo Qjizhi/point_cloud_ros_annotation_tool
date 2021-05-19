@@ -1,0 +1,2 @@
+rviz_cloud_annotation
+-DCATKIN_DEVEL_PREFIX=/home/inceptio/Tests_Temps/Annotation_Tool_Saic/devel -DCMAKE_INSTALL_PREFIX=/home/inceptio/Tests_Temps/Annotation_Tool_Saic/install -G Unix Makefiles
